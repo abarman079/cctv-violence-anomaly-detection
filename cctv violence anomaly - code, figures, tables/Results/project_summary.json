@@ -1,0 +1,12 @@
+{
+  "project_title": "CCTV Surveillance Violence Anomaly Detection",
+  "dataset": "Violence vs. Non-Violence: 11K Images Dataset",
+  "labels": {
+    "0": "Normal / Non-Violence",
+    "1": "Anomaly / Violence"
+  },
+  "image_size": 160,
+  "max_per_class": 2500,
+  "best_model_by_f1": "MLP Classifier",
+  "outputs_folder": "/kaggle/working/cctv_violence_anomaly_outputs"
+}

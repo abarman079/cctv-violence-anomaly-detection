@@ -1,0 +1,33 @@
+Asset_Type,Filename,Suggested_Report_Use
+Figure,figure_01_class_distribution.png,Insert in implementation/evaluation section
+Figure,figure_02_sample_images.png,Insert in implementation/evaluation section
+Figure,figure_03_classical_model_comparison.png,Insert in implementation/evaluation section
+Figure,figure_04_classical_training_time.png,Insert in implementation/evaluation section
+Figure,figure_09_mobilenetv2_roc_curve.png,Insert in implementation/evaluation section
+Figure,figure_10_mobilenetv2_precision_recall_curve.png,Insert in implementation/evaluation section
+Figure,figure_11_final_model_comparison_f1.png,Insert in implementation/evaluation section
+Figure,figure_12_final_model_comparison_recall.png,Insert in implementation/evaluation section
+Figure,figure_13_alert_demo_predictions.png,Insert in implementation/evaluation section
+Figure,figure_14_system_architecture.png,Insert in implementation/evaluation section
+Figure,mobilenetv2_transfer_accuracy_curve.png,Insert in implementation/evaluation section
+Figure,mobilenetv2_transfer_confusion_matrix.png,Insert in implementation/evaluation section
+Figure,mobilenetv2_transfer_loss_curve.png,Insert in implementation/evaluation section
+Figure,small_cnn_accuracy_curve.png,Insert in implementation/evaluation section
+Figure,small_cnn_confusion_matrix.png,Insert in implementation/evaluation section
+Figure,small_cnn_loss_curve.png,Insert in implementation/evaluation section
+Table/CSV,class_distribution.csv,Use for report tables or appendix
+Table/CSV,classical_model_results.csv,Use for report tables or appendix
+Table/CSV,dataset_index.csv,Use for report tables or appendix
+Table/CSV,final_model_comparison.csv,Use for report tables or appendix
+Table/CSV,mobilenetv2_test_prediction_log.csv,Use for report tables or appendix
+Table/CSV,mobilenetv2_training_history.csv,Use for report tables or appendix
+Table/CSV,mobilenetv2_transfer_classification_report.csv,Use for report tables or appendix
+Table/CSV,mobilenetv2_transfer_confusion_matrix.csv,Use for report tables or appendix
+Table/CSV,security_alert_log.csv,Use for report tables or appendix
+Table/CSV,small_cnn_classification_report.csv,Use for report tables or appendix
+Table/CSV,small_cnn_confusion_matrix.csv,Use for report tables or appendix
+Table/CSV,small_cnn_training_history.csv,Use for report tables or appendix
+Table/CSV,split_summary.csv,Use for report tables or appendix
+Table/CSV,test_split.csv,Use for report tables or appendix
+Table/CSV,train_split.csv,Use for report tables or appendix
+Table/CSV,validation_split.csv,Use for report tables or appendix

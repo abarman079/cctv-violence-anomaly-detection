@@ -1,0 +1,751 @@
+filepath,label,label_name,anomaly_probability,predicted_label,predicted_status
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4594.jpg,1,Anomaly,0.9950664,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3875.jpg,0,Normal,0.92029834,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3735.jpg,1,Anomaly,0.7548915,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1826.jpg,0,Normal,0.046102688,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5164.jpg,0,Normal,0.1493244,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5751.jpg,1,Anomaly,0.988694,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/8.jpg,0,Normal,0.05752008,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2098.jpg,0,Normal,0.08864619,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5205.jpg,0,Normal,0.16404124,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3678.jpg,0,Normal,0.10349686,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5175.jpg,1,Anomaly,0.9041024,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3500.jpg,0,Normal,0.09224394,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4052.jpg,1,Anomaly,0.9794937,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/208.jpg,1,Anomaly,0.8833993,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4202.jpg,0,Normal,0.05565973,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/924.jpg,0,Normal,0.007235734,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4147.jpg,1,Anomaly,0.8790151,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/545.jpg,0,Normal,0.6346702,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/438.jpg,0,Normal,0.659082,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4102.jpg,0,Normal,0.00122114,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/813.jpg,1,Anomaly,0.9970469,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1617.jpg,1,Anomaly,0.99647695,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/912.jpg,0,Normal,0.008858832,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4906.jpg,1,Anomaly,0.993327,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4127.jpg,1,Anomaly,0.9993932,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3774.jpg,1,Anomaly,0.98559266,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4098.jpg,0,Normal,0.030682737,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/526.jpg,0,Normal,0.23542827,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3502.jpg,0,Normal,0.014329774,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/819.jpg,1,Anomaly,0.9804049,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/341.jpg,1,Anomaly,0.9999559,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3430.jpg,1,Anomaly,0.97056913,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4971.jpg,1,Anomaly,0.95128465,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/694.jpg,0,Normal,0.39984617,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1390.jpg,1,Anomaly,0.99851304,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2288.jpg,0,Normal,0.17936143,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2023.jpg,0,Normal,0.31366515,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4590.jpg,1,Anomaly,0.9586831,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3564.jpg,1,Anomaly,0.99975055,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3043.jpg,0,Normal,0.063525796,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3215.jpg,0,Normal,0.3551018,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/483.jpg,0,Normal,0.02206883,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4238.jpg,0,Normal,0.3756304,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3228.jpg,0,Normal,0.18554726,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1739.jpg,0,Normal,0.0026646482,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/734.jpg,1,Anomaly,0.9609291,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/786.jpg,0,Normal,0.006905489,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/686.jpg,1,Anomaly,0.99100167,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4254.jpg,1,Anomaly,0.99130416,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3418.jpg,0,Normal,0.09335842,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1511.jpg,0,Normal,0.13205607,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5652.jpg,1,Anomaly,0.97750425,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1110.jpg,1,Anomaly,0.9308209,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4204.jpg,1,Anomaly,0.88422024,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/146.jpg,0,Normal,0.02257685,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/335.jpg,1,Anomaly,0.9889908,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4308.jpg,0,Normal,0.002022206,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3053.jpg,1,Anomaly,0.9087078,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4630.jpg,1,Anomaly,0.96750456,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3906.jpg,0,Normal,0.081500225,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2914.jpg,1,Anomaly,0.85435104,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1048.jpg,1,Anomaly,0.7583037,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3454.jpg,0,Normal,0.014767726,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/847.jpg,0,Normal,0.007988017,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1180.jpg,0,Normal,0.029953502,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4642.jpg,0,Normal,0.47594482,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4732.jpg,1,Anomaly,0.9594818,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3790.jpg,0,Normal,0.034170188,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1681.jpg,1,Anomaly,0.99901843,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/288.jpg,1,Anomaly,0.978975,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2877.jpg,1,Anomaly,0.68023115,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4731.jpg,1,Anomaly,0.41119853,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3575.jpg,1,Anomaly,0.9957906,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2304.jpg,1,Anomaly,0.9102442,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/469.jpg,0,Normal,0.0013932475,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1845.jpg,0,Normal,0.00020989611,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3710.jpg,0,Normal,0.010942714,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1943.jpg,1,Anomaly,0.98692346,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4148.jpg,0,Normal,0.043090947,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2431.jpg,0,Normal,0.2823136,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3069.jpg,1,Anomaly,0.5928827,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5659.jpg,1,Anomaly,0.9836305,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/493.jpg,0,Normal,0.017301643,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/238.jpg,0,Normal,0.007024473,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2885.jpg,1,Anomaly,0.6656466,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2413.jpg,1,Anomaly,0.996437,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4553.jpg,0,Normal,0.028529955,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2939.jpg,0,Normal,0.0026371202,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4321.jpg,1,Anomaly,0.99435514,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3532.jpg,1,Anomaly,0.9968003,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2026.jpg,0,Normal,0.26494032,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/298.jpg,1,Anomaly,0.9940508,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/374.jpg,1,Anomaly,0.99429095,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/165.jpg,1,Anomaly,0.99037224,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3590.jpg,0,Normal,0.024854667,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3881.jpg,0,Normal,0.012988217,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5038.jpg,0,Normal,0.0054274863,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2569.jpg,0,Normal,0.06577534,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3628.jpg,0,Normal,0.6533994,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2247.jpg,1,Anomaly,0.772836,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3797.jpg,1,Anomaly,0.98558444,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3316.jpg,1,Anomaly,0.98002166,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2601.jpg,1,Anomaly,0.9980375,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/223.jpg,0,Normal,0.18121998,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/472.jpg,1,Anomaly,0.9995104,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/869.jpg,0,Normal,0.007687761,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/751.jpg,0,Normal,0.006794626,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3630.jpg,0,Normal,0.04048553,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/489.jpg,0,Normal,0.029876173,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3066.jpg,0,Normal,0.065587796,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2757.jpg,1,Anomaly,0.999208,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1398.jpg,0,Normal,0.06959687,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5153.jpg,0,Normal,0.06660828,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2642.jpg,0,Normal,0.069657415,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/758.jpg,0,Normal,0.01613328,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1469.jpg,0,Normal,0.019128738,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5633.jpg,1,Anomaly,0.95744157,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3697.jpg,1,Anomaly,0.85670274,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/209.jpg,0,Normal,0.39469317,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3218.jpg,1,Anomaly,0.79716456,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5270.jpg,1,Anomaly,0.9777976,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5005.jpg,0,Normal,0.11628043,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1594.jpg,0,Normal,0.007328541,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2652.jpg,0,Normal,0.040303484,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3315.jpg,1,Anomaly,0.9493667,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1794.jpg,0,Normal,0.007108705,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1455.jpg,1,Anomaly,0.98224884,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2133.jpg,1,Anomaly,0.9357429,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4346.jpg,1,Anomaly,0.9824682,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/958.jpg,0,Normal,0.032258026,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1431.jpg,0,Normal,0.23095909,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1481.jpg,0,Normal,0.0037666536,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3028.jpg,1,Anomaly,0.9958431,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/332.jpg,0,Normal,0.07686144,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2541.jpg,1,Anomaly,0.8733454,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5350.jpg,1,Anomaly,0.9973221,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/35.jpg,0,Normal,0.0010076382,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3468.jpg,0,Normal,0.23326683,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/991.jpg,0,Normal,0.0072453506,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3423.jpg,1,Anomaly,0.99772555,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1804.jpg,0,Normal,0.007957051,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1856.jpg,0,Normal,0.008250618,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/585.jpg,1,Anomaly,0.9943668,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5552.jpg,1,Anomaly,0.8455795,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/708.jpg,1,Anomaly,0.999728,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2518.jpg,1,Anomaly,0.97165424,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3940.jpg,1,Anomaly,0.85061485,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1372.jpg,1,Anomaly,0.9734455,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4572.jpg,0,Normal,0.01119313,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3844.jpg,1,Anomaly,0.95942724,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3926.jpg,0,Normal,0.019381866,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3234.jpg,1,Anomaly,0.9775646,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2561.jpg,0,Normal,0.08062545,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3449.jpg,0,Normal,0.08735798,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/388.jpg,0,Normal,0.09321738,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3873.jpg,1,Anomaly,0.99874157,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3031.jpg,0,Normal,0.6742949,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3378.jpg,1,Anomaly,0.9874106,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4368.jpg,1,Anomaly,0.8577846,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4347.jpg,0,Normal,0.308103,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2307.jpg,1,Anomaly,0.9635576,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5716.jpg,1,Anomaly,0.8947465,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/733.jpg,0,Normal,0.058864854,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3252.jpg,0,Normal,0.95100224,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5499.jpg,1,Anomaly,0.7929464,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4411.jpg,1,Anomaly,0.99476093,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2126.jpg,1,Anomaly,0.96460176,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2424.jpg,0,Normal,0.87363863,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/514.jpg,0,Normal,0.18734057,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4293.jpg,0,Normal,0.03707503,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1187.jpg,0,Normal,0.2914747,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3542.jpg,1,Anomaly,0.97917646,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2070.jpg,1,Anomaly,0.38232604,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/992.jpg,1,Anomaly,0.9943216,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/563.jpg,1,Anomaly,0.99871135,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4240.jpg,1,Anomaly,0.9767644,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2691.jpg,1,Anomaly,0.9396501,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1319.jpg,1,Anomaly,0.98405796,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4297.jpg,0,Normal,0.026561316,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4029.jpg,0,Normal,0.004546435,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5322.jpg,1,Anomaly,0.99552566,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1874.jpg,0,Normal,0.0017105377,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2349.jpg,1,Anomaly,0.95335007,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4568.jpg,0,Normal,0.002391548,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3543.jpg,0,Normal,0.093586504,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4292.jpg,1,Anomaly,0.965865,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2118.jpg,0,Normal,0.044503335,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/11.jpg,1,Anomaly,0.9978975,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4683.jpg,0,Normal,0.00247739,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/887.jpg,0,Normal,0.010277698,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1113.jpg,1,Anomaly,0.57082057,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/102.jpg,0,Normal,0.0018102628,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3161.jpg,0,Normal,0.83522224,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3794.jpg,0,Normal,0.13643084,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4028.jpg,1,Anomaly,0.8746786,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2659.jpg,0,Normal,0.016245546,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4648.jpg,0,Normal,0.0023607274,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2389.jpg,0,Normal,0.053878732,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3855.jpg,0,Normal,0.17988989,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/861.jpg,1,Anomaly,0.9995273,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1730.jpg,0,Normal,0.019444652,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2850.jpg,0,Normal,0.006920286,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4099.jpg,1,Anomaly,0.9098575,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4805.jpg,0,Normal,0.17224407,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5059.jpg,0,Normal,0.06375198,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3450.jpg,1,Anomaly,0.9839338,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2172.jpg,1,Anomaly,0.82725024,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4721.jpg,1,Anomaly,0.99982107,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1190.jpg,0,Normal,0.005468123,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4354.jpg,1,Anomaly,0.9357173,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4295.jpg,0,Normal,0.010995407,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1015.jpg,0,Normal,0.007018548,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4585.jpg,0,Normal,0.046542574,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5219.jpg,0,Normal,0.3726949,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/779.jpg,1,Anomaly,0.98935556,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/460.jpg,1,Anomaly,0.99396884,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/840.jpg,1,Anomaly,0.99853694,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/780.jpg,0,Normal,0.014842507,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/969.jpg,1,Anomaly,0.9807444,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1333.jpg,0,Normal,0.10157108,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4488.jpg,0,Normal,0.18124156,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5218.jpg,0,Normal,0.015287443,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4351.jpg,0,Normal,0.06154914,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3395.jpg,1,Anomaly,0.9921709,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/321.jpg,0,Normal,0.49529973,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3454.jpg,1,Anomaly,0.9594455,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/702.jpg,1,Anomaly,0.995555,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/548.jpg,1,Anomaly,0.94517183,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/615.jpg,0,Normal,0.0008483826,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5818.jpg,1,Anomaly,0.99757427,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1810.jpg,0,Normal,0.118574165,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2808.jpg,0,Normal,0.0042418973,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3833.jpg,1,Anomaly,0.99803406,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1484.jpg,1,Anomaly,0.9917745,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2674.jpg,1,Anomaly,0.5017814,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1368.jpg,1,Anomaly,0.98763555,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1762.jpg,1,Anomaly,0.9916152,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3179.jpg,0,Normal,0.018135441,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5673.jpg,1,Anomaly,0.9406032,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4316.jpg,0,Normal,0.00537266,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3368.jpg,1,Anomaly,0.9570446,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1922.jpg,1,Anomaly,0.9889824,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4359.jpg,1,Anomaly,0.92877257,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4758.jpg,1,Anomaly,0.99673885,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4095.jpg,0,Normal,0.526521,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2476.jpg,1,Anomaly,0.9747976,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/794.jpg,1,Anomaly,0.9995393,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3202.jpg,0,Normal,0.31090736,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2196.jpg,0,Normal,0.08889237,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3784.jpg,0,Normal,0.11967205,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2469.jpg,1,Anomaly,0.9910321,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4089.jpg,0,Normal,0.084849335,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2446.jpg,1,Anomaly,0.9172834,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/234.jpg,0,Normal,0.33031183,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2807.jpg,0,Normal,0.30986023,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3801.jpg,1,Anomaly,0.96420085,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1077.jpg,1,Anomaly,0.6104952,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1234.jpg,1,Anomaly,0.96432585,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4103.jpg,0,Normal,0.8524041,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1655.jpg,1,Anomaly,0.9718322,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4206.jpg,0,Normal,0.013503021,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2699.jpg,0,Normal,0.40304998,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3324.jpg,1,Anomaly,0.9998894,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/458.jpg,1,Anomaly,0.99161667,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3357.jpg,0,Normal,0.38837793,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4896.jpg,1,Anomaly,0.9959424,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2199.jpg,0,Normal,0.047348343,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2.jpg,1,Anomaly,0.9967419,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1149.jpg,0,Normal,0.19019042,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4247.jpg,1,Anomaly,0.9999273,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3714.jpg,1,Anomaly,0.9992249,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5140.jpg,0,Normal,0.013026123,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2305.jpg,1,Anomaly,0.995184,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5506.jpg,1,Anomaly,0.9933557,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1496.jpg,1,Anomaly,0.9987134,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2269.jpg,0,Normal,0.8822036,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4521.jpg,0,Normal,0.0029333993,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1231.jpg,1,Anomaly,0.9617971,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3852.jpg,1,Anomaly,0.99573225,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5111.jpg,1,Anomaly,0.99246657,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1245.jpg,1,Anomaly,0.613282,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2209.jpg,0,Normal,0.0020746724,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4578.jpg,1,Anomaly,0.96467906,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1370.jpg,1,Anomaly,0.99024093,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3598.jpg,0,Normal,0.89849055,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3044.jpg,0,Normal,0.09396966,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/105.jpg,0,Normal,0.018379478,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1128.jpg,0,Normal,0.028482812,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2434.jpg,0,Normal,0.8762666,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2086.jpg,0,Normal,0.0119858915,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4182.jpg,0,Normal,0.030168578,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5126.jpg,0,Normal,0.44911492,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3558.jpg,1,Anomaly,0.9767436,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4152.jpg,0,Normal,0.022984672,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1014.jpg,1,Anomaly,0.9664578,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3585.jpg,0,Normal,0.17804456,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4300.jpg,0,Normal,0.0067270915,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4811.jpg,1,Anomaly,0.6965662,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/777.jpg,1,Anomaly,0.9997477,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1726.jpg,0,Normal,0.1712431,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/936.jpg,1,Anomaly,0.99878895,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4459.jpg,0,Normal,0.010700792,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5649.jpg,1,Anomaly,0.9405434,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/404.jpg,1,Anomaly,0.9968633,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1768.jpg,0,Normal,0.005553766,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2596.jpg,1,Anomaly,0.9252991,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1912.jpg,1,Anomaly,0.956714,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3232.jpg,0,Normal,0.28350773,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/956.jpg,0,Normal,0.007861161,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5006.jpg,1,Anomaly,0.99535483,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4884.jpg,0,Normal,0.018019702,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1092.jpg,0,Normal,0.016989283,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3248.jpg,1,Anomaly,0.92110556,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1986.jpg,0,Normal,0.019777102,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/267.jpg,1,Anomaly,0.9995552,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1071.jpg,0,Normal,0.0576776,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2970.jpg,0,Normal,0.08171868,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2067.jpg,0,Normal,0.036290925,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/109.jpg,0,Normal,0.04608582,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2127.jpg,0,Normal,0.55502194,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1830.jpg,0,Normal,0.8679246,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5440.jpg,1,Anomaly,0.99510527,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3213.jpg,0,Normal,0.038822174,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3024.jpg,0,Normal,0.010258464,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3107.jpg,1,Anomaly,0.89761305,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1205.jpg,1,Anomaly,0.9692096,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4475.jpg,1,Anomaly,0.95953953,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1359.jpg,1,Anomaly,0.99654526,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4377.jpg,1,Anomaly,0.9868099,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5039.jpg,1,Anomaly,0.9803012,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/178.jpg,1,Anomaly,0.99529934,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2283.jpg,1,Anomaly,0.97163963,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3435.jpg,1,Anomaly,0.9995335,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/347.jpg,0,Normal,0.036846235,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1467.jpg,0,Normal,0.0097235115,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2566.jpg,0,Normal,0.03680087,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2303.jpg,1,Anomaly,0.9437497,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/943.jpg,0,Normal,0.01944192,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4524.jpg,0,Normal,0.06902077,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2681.jpg,1,Anomaly,0.16595599,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/659.jpg,1,Anomaly,0.89064807,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2393.jpg,0,Normal,0.71634793,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1584.jpg,0,Normal,0.16011542,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2549.jpg,1,Anomaly,0.99989676,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4189.jpg,0,Normal,0.08212303,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1126.jpg,0,Normal,0.09675341,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5574.jpg,1,Anomaly,0.99709874,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/286.jpg,0,Normal,0.5967906,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4210.jpg,1,Anomaly,0.9646091,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5396.jpg,1,Anomaly,0.8503415,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2181.jpg,1,Anomaly,0.21607277,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1784.jpg,1,Anomaly,0.9915155,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1687.jpg,1,Anomaly,0.9971974,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3044.jpg,1,Anomaly,0.9195208,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4320.jpg,1,Anomaly,0.997679,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3113.jpg,0,Normal,0.85160446,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1658.jpg,0,Normal,0.0010933304,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2093.jpg,1,Anomaly,0.9843077,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4108.jpg,1,Anomaly,0.9605124,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1942.jpg,0,Normal,0.021879079,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4160.jpg,0,Normal,0.04253008,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1937.jpg,0,Normal,0.00079349923,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/33.jpg,1,Anomaly,0.98718107,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2920.jpg,0,Normal,0.34625554,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/952.jpg,0,Normal,0.0077413125,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3548.jpg,1,Anomaly,0.9918595,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2950.jpg,0,Normal,0.3704073,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1279.jpg,0,Normal,0.041613385,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3688.jpg,0,Normal,0.015510914,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4851.jpg,0,Normal,0.049738016,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5395.jpg,1,Anomaly,0.8606116,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4765.jpg,0,Normal,0.083932765,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2890.jpg,1,Anomaly,0.18478613,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3965.jpg,1,Anomaly,0.99979734,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1745.jpg,1,Anomaly,0.97582906,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/70.jpg,0,Normal,0.39806452,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4998.jpg,1,Anomaly,0.78196764,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/226.jpg,1,Anomaly,0.99916774,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/979.jpg,1,Anomaly,0.99156934,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3133.jpg,0,Normal,0.007442731,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2979.jpg,0,Normal,0.43127298,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5780.jpg,1,Anomaly,0.98780406,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/15.jpg,0,Normal,0.033450924,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/506.jpg,0,Normal,0.024828414,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2680.jpg,0,Normal,0.18431953,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/15.jpg,1,Anomaly,0.9888319,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4468.jpg,0,Normal,0.91757745,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4421.jpg,0,Normal,0.3655629,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1660.jpg,0,Normal,0.049121458,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5451.jpg,1,Anomaly,0.9820139,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2924.jpg,0,Normal,0.07703622,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4939.jpg,0,Normal,0.042652875,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1446.jpg,0,Normal,0.07295356,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3012.jpg,0,Normal,0.007222096,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/622.jpg,1,Anomaly,0.9995122,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2899.jpg,1,Anomaly,0.9502511,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1704.jpg,1,Anomaly,0.9704288,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2271.jpg,0,Normal,0.97364646,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/296.jpg,0,Normal,0.24928316,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2158.jpg,0,Normal,0.4476434,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3899.jpg,1,Anomaly,0.99990416,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/859.jpg,1,Anomaly,0.9538305,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3460.jpg,1,Anomaly,0.99839455,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3337.jpg,1,Anomaly,0.9714472,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4817.jpg,0,Normal,0.055670705,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/455.jpg,1,Anomaly,0.9930119,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3299.jpg,1,Anomaly,0.9921389,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2196.jpg,1,Anomaly,0.9702784,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3521.jpg,0,Normal,0.096389234,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2146.jpg,1,Anomaly,0.37087932,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5412.jpg,1,Anomaly,0.9519204,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3146.jpg,1,Anomaly,0.9813736,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4122.jpg,0,Normal,0.7703416,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1127.jpg,1,Anomaly,0.5618666,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1767.jpg,0,Normal,0.035405997,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/611.jpg,0,Normal,0.012444419,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5196.jpg,0,Normal,0.86799586,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/965.jpg,0,Normal,0.0077265142,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2262.jpg,0,Normal,0.052443247,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1590.jpg,0,Normal,0.60356903,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/580.jpg,0,Normal,0.4763087,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1252.jpg,1,Anomaly,0.8724991,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3508.jpg,0,Normal,0.07529753,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4823.jpg,0,Normal,0.005331497,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4048.jpg,0,Normal,0.20425993,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2728.jpg,0,Normal,0.013003814,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1239.jpg,0,Normal,0.0015922451,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4461.jpg,1,Anomaly,0.9902468,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4898.jpg,0,Normal,0.71376944,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1383.jpg,0,Normal,0.00086438784,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1625.jpg,0,Normal,0.0053568236,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3334.jpg,0,Normal,0.00063761586,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2250.jpg,0,Normal,0.0009981357,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/803.jpg,0,Normal,0.35564387,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2817.jpg,0,Normal,0.63737464,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2519.jpg,0,Normal,0.0015914805,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5548.jpg,1,Anomaly,0.90151113,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/540.jpg,0,Normal,0.024081217,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/281.jpg,1,Anomaly,0.97686607,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/559.jpg,0,Normal,0.05093561,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1476.jpg,0,Normal,0.051208228,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/235.jpg,1,Anomaly,0.998354,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2121.jpg,1,Anomaly,0.97329515,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1248.jpg,0,Normal,0.012842396,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/424.jpg,0,Normal,0.19706517,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/425.jpg,1,Anomaly,0.99977577,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4738.jpg,1,Anomaly,0.99457324,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1218.jpg,1,Anomaly,0.9790165,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1637.jpg,0,Normal,0.016239215,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3451.jpg,0,Normal,0.018109329,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1621.jpg,0,Normal,0.033521358,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/112.jpg,0,Normal,0.0058199842,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2919.jpg,0,Normal,0.015906826,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1934.jpg,1,Anomaly,0.87221915,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3268.jpg,0,Normal,0.0015277789,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4904.jpg,0,Normal,0.033267878,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3609.jpg,0,Normal,0.32231447,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1072.jpg,0,Normal,0.3256188,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3783.jpg,0,Normal,0.44014385,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1035.jpg,0,Normal,0.0024626637,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4547.jpg,0,Normal,0.0025737763,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/309.jpg,0,Normal,0.68426275,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2720.jpg,0,Normal,0.0029403835,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/431.jpg,1,Anomaly,0.98805726,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2504.jpg,1,Anomaly,0.99279684,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2346.jpg,0,Normal,0.67555404,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3073.jpg,1,Anomaly,0.86928195,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3642.jpg,0,Normal,0.017903749,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1242.jpg,1,Anomaly,0.66442,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/157.jpg,1,Anomaly,0.99992883,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4121.jpg,1,Anomaly,0.8972488,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2176.jpg,0,Normal,0.060937814,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4822.jpg,1,Anomaly,0.9954158,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1824.jpg,0,Normal,0.0028919806,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2328.jpg,0,Normal,0.28797287,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/31.jpg,0,Normal,0.103977464,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3736.jpg,1,Anomaly,0.8095212,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5124.jpg,0,Normal,0.17561945,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3650.jpg,0,Normal,0.07599912,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2.jpg,0,Normal,0.22233135,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2523.jpg,1,Anomaly,0.9356887,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3615.jpg,1,Anomaly,0.9946208,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3487.jpg,0,Normal,0.0013835832,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3383.jpg,0,Normal,0.03219836,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4551.jpg,1,Anomaly,0.6632048,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5526.jpg,1,Anomaly,0.99739265,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1904.jpg,0,Normal,0.004959908,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3130.jpg,1,Anomaly,0.92686754,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1145.jpg,1,Anomaly,0.79965836,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3229.jpg,1,Anomaly,0.97311133,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4563.jpg,0,Normal,0.1084567,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1156.jpg,1,Anomaly,0.21793763,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1227.jpg,1,Anomaly,0.7347101,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5252.jpg,1,Anomaly,0.99135315,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/437.jpg,0,Normal,0.0019010024,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2684.jpg,0,Normal,0.04393564,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/448.jpg,1,Anomaly,0.98343444,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2461.jpg,0,Normal,0.01988517,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2120.jpg,1,Anomaly,0.9935822,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4339.jpg,1,Anomaly,0.9792925,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4241.jpg,1,Anomaly,0.96158206,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2426.jpg,1,Anomaly,0.9671186,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4106.jpg,0,Normal,0.004290236,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1875.jpg,0,Normal,0.39806145,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2841.jpg,1,Anomaly,0.70537156,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2523.jpg,0,Normal,0.06526387,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2352.jpg,0,Normal,0.11443915,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5488.jpg,1,Anomaly,0.96618503,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4044.jpg,1,Anomaly,0.7929056,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1493.jpg,0,Normal,0.018675553,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3961.jpg,1,Anomaly,0.99910516,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/231.jpg,0,Normal,0.0042566056,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3430.jpg,0,Normal,0.23210487,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3416.jpg,0,Normal,0.12640084,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1775.jpg,1,Anomaly,0.99200034,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1197.jpg,1,Anomaly,0.6578713,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/249.jpg,0,Normal,0.067480676,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1489.jpg,1,Anomaly,0.7276196,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3837.jpg,0,Normal,0.014086159,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3593.jpg,1,Anomaly,0.98413026,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/752.jpg,0,Normal,0.010874484,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1067.jpg,0,Normal,0.032183893,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5721.jpg,1,Anomaly,0.9722701,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3387.jpg,1,Anomaly,0.9924312,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/396.jpg,1,Anomaly,0.935333,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/250.jpg,0,Normal,0.045023013,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/293.jpg,0,Normal,0.051514275,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1413.jpg,0,Normal,0.0069616847,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4404.jpg,0,Normal,0.006414103,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3532.jpg,0,Normal,0.013680376,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/339.jpg,0,Normal,0.07989583,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/554.jpg,0,Normal,0.14828382,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1860.jpg,1,Anomaly,0.9901548,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4273.jpg,0,Normal,0.06466876,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2727.jpg,0,Normal,0.32950395,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/582.jpg,0,Normal,0.20691085,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2843.jpg,1,Anomaly,0.96683806,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2006.jpg,1,Anomaly,0.99616206,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2131.jpg,1,Anomaly,0.96532094,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3572.jpg,1,Anomaly,0.99897724,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4951.jpg,0,Normal,0.0093939835,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5591.jpg,1,Anomaly,0.91978514,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1065.jpg,1,Anomaly,0.8441543,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3577.jpg,0,Normal,0.0012607595,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4268.jpg,0,Normal,0.9251822,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5655.jpg,1,Anomaly,0.98669714,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/98.jpg,0,Normal,0.025779018,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1419.jpg,0,Normal,0.032822136,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/415.jpg,1,Anomaly,0.9576335,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2694.jpg,1,Anomaly,0.13354039,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2793.jpg,1,Anomaly,0.64152396,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2855.jpg,1,Anomaly,0.89357734,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5730.jpg,1,Anomaly,0.99829966,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2148.jpg,1,Anomaly,0.73640585,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3754.jpg,1,Anomaly,0.9963768,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5047.jpg,1,Anomaly,0.9960861,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/880.jpg,1,Anomaly,0.9919247,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3739.jpg,0,Normal,0.20082511,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1631.jpg,1,Anomaly,0.95655286,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3166.jpg,0,Normal,0.0649258,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4760.jpg,1,Anomaly,0.99355716,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1380.jpg,1,Anomaly,0.9926785,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5767.jpg,1,Anomaly,0.98768985,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5232.jpg,1,Anomaly,0.99254876,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3426.jpg,1,Anomaly,0.7320054,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1451.jpg,0,Normal,0.82973784,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1895.jpg,0,Normal,0.03983377,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4977.jpg,0,Normal,0.012849847,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5137.jpg,1,Anomaly,0.9260696,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/606.jpg,0,Normal,0.042048115,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3235.jpg,0,Normal,0.024829095,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1084.jpg,0,Normal,0.041946825,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4140.jpg,1,Anomaly,0.9616419,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3745.jpg,1,Anomaly,0.84614563,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4743.jpg,1,Anomaly,0.80987436,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5224.jpg,0,Normal,0.035225928,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4668.jpg,1,Anomaly,0.9978168,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5080.jpg,1,Anomaly,0.99946207,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/852.jpg,0,Normal,0.004339342,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4379.jpg,0,Normal,0.002874375,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1459.jpg,0,Normal,0.041580487,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1402.jpg,0,Normal,0.045759864,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1799.jpg,1,Anomaly,0.95765656,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1221.jpg,1,Anomaly,0.9671339,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1221.jpg,0,Normal,0.010516163,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3717.jpg,1,Anomaly,0.9839023,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/492.jpg,1,Anomaly,0.9973924,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/104.jpg,1,Anomaly,0.9943527,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4225.jpg,0,Normal,0.01119643,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4584.jpg,1,Anomaly,0.9469945,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5718.jpg,1,Anomaly,0.9365419,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2493.jpg,1,Anomaly,0.65593857,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5113.jpg,1,Anomaly,0.99385494,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3390.jpg,0,Normal,0.015340386,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2711.jpg,1,Anomaly,0.20258893,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1795.jpg,1,Anomaly,0.95355237,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3721.jpg,1,Anomaly,0.9846561,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/735.jpg,1,Anomaly,0.9998723,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1852.jpg,1,Anomaly,0.98644024,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/560.jpg,0,Normal,0.031308286,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2940.jpg,1,Anomaly,0.99538213,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1836.jpg,1,Anomaly,0.98429054,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1269.jpg,0,Normal,0.91511804,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/825.jpg,0,Normal,0.009581679,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1101.jpg,0,Normal,0.3231827,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/413.jpg,0,Normal,0.08073952,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5439.jpg,1,Anomaly,0.6111214,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5273.jpg,1,Anomaly,0.9996407,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5040.jpg,1,Anomaly,0.977419,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/265.jpg,0,Normal,0.691185,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2721.jpg,1,Anomaly,0.3898205,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2979.jpg,1,Anomaly,0.9945461,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3607.jpg,1,Anomaly,0.99503595,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/465.jpg,0,Normal,0.043402072,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3176.jpg,1,Anomaly,0.9627468,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5128.jpg,1,Anomaly,0.8636011,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/285.jpg,1,Anomaly,0.96101516,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4804.jpg,1,Anomaly,0.9935788,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4934.jpg,1,Anomaly,0.98704684,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3797.jpg,0,Normal,0.15562752,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3190.jpg,1,Anomaly,0.7338993,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2099.jpg,1,Anomaly,0.99802965,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2737.jpg,1,Anomaly,0.13100575,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4506.jpg,1,Anomaly,0.9568037,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3846.jpg,0,Normal,0.00043200608,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4770.jpg,0,Normal,0.045034673,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2333.jpg,1,Anomaly,0.9821009,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3162.jpg,0,Normal,0.1770555,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3520.jpg,1,Anomaly,0.75757056,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/734.jpg,0,Normal,0.42285177,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/987.jpg,1,Anomaly,0.99546164,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2732.jpg,0,Normal,0.052669577,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2923.jpg,1,Anomaly,0.96267056,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3019.jpg,1,Anomaly,0.64146644,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4071.jpg,1,Anomaly,0.94091696,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1708.jpg,0,Normal,0.22786026,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3429.jpg,1,Anomaly,0.9937823,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/361.jpg,1,Anomaly,0.9998127,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/501.jpg,0,Normal,0.00033671918,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3156.jpg,0,Normal,0.002968919,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2580.jpg,1,Anomaly,0.9476154,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4278.jpg,0,Normal,0.03132524,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3754.jpg,0,Normal,0.0066591618,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5055.jpg,0,Normal,0.01671098,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/396.jpg,0,Normal,0.24757817,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2101.jpg,0,Normal,0.053128242,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1688.jpg,0,Normal,0.00088550407,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4053.jpg,1,Anomaly,0.97636557,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2959.jpg,1,Anomaly,0.66311646,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4062.jpg,0,Normal,0.28311893,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/887.jpg,1,Anomaly,0.8731888,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1052.jpg,1,Anomaly,0.52192616,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1841.jpg,1,Anomaly,0.9640599,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4396.jpg,0,Normal,0.05247879,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4095.jpg,1,Anomaly,0.9985397,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2089.jpg,1,Anomaly,0.8914105,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4251.jpg,0,Normal,0.70986044,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5520.jpg,1,Anomaly,0.8514851,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/978.jpg,0,Normal,0.03257367,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/993.jpg,1,Anomaly,0.8565418,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1369.jpg,0,Normal,0.14862195,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1240.jpg,0,Normal,0.21535783,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2535.jpg,1,Anomaly,0.99815565,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1996.jpg,1,Anomaly,0.9991763,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1859.jpg,1,Anomaly,0.96869946,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/276.jpg,1,Anomaly,0.8775083,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5564.jpg,1,Anomaly,0.9304046,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3982.jpg,1,Anomaly,0.9732381,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1650.jpg,0,Normal,0.06983137,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5173.jpg,1,Anomaly,0.99927706,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3742.jpg,0,Normal,0.011956157,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1776.jpg,1,Anomaly,0.9984199,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/5014.jpg,0,Normal,0.33307502,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4398.jpg,1,Anomaly,0.9047536,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3004.jpg,0,Normal,0.0010795981,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2292.jpg,1,Anomaly,0.9929069,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/331.jpg,1,Anomaly,0.99983335,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5563.jpg,1,Anomaly,0.99724126,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1482.jpg,0,Normal,0.016960163,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2248.jpg,1,Anomaly,0.9811156,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/404.jpg,0,Normal,0.25291926,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3933.jpg,1,Anomaly,0.9919457,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/517.jpg,1,Anomaly,0.9993825,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3043.jpg,1,Anomaly,0.8672094,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2047.jpg,0,Normal,0.2580847,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/872.jpg,0,Normal,0.032667972,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3180.jpg,0,Normal,0.19502652,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4721.jpg,0,Normal,0.7002303,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2509.jpg,0,Normal,0.015331558,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/745.jpg,0,Normal,0.00302658,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3010.jpg,0,Normal,0.05680201,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1472.jpg,1,Anomaly,0.99087065,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/508.jpg,0,Normal,0.1119562,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3478.jpg,0,Normal,0.0028540238,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3557.jpg,1,Anomaly,0.9879232,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3297.jpg,0,Normal,0.47419724,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4522.jpg,1,Anomaly,0.90182614,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5038.jpg,1,Anomaly,0.9901944,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3181.jpg,1,Anomaly,0.98799884,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1004.jpg,1,Anomaly,0.9095931,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3393.jpg,0,Normal,0.14279746,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/879.jpg,1,Anomaly,0.9723912,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/329.jpg,0,Normal,0.019258497,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1744.jpg,0,Normal,0.10486396,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4944.jpg,0,Normal,0.11928479,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/949.jpg,1,Anomaly,0.94449276,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3165.jpg,1,Anomaly,0.5482799,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4183.jpg,0,Normal,0.023014266,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4807.jpg,0,Normal,0.043560788,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2995.jpg,1,Anomaly,0.9303656,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/495.jpg,1,Anomaly,0.90924394,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/290.jpg,1,Anomaly,0.6729622,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3062.jpg,0,Normal,0.4827428,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/614.jpg,1,Anomaly,0.99837685,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1477.jpg,0,Normal,0.021095375,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/563.jpg,0,Normal,0.009182459,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1983.jpg,1,Anomaly,0.97284293,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4886.jpg,0,Normal,0.42485476,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4969.jpg,0,Normal,0.041791156,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2719.jpg,0,Normal,0.028671421,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4970.jpg,0,Normal,0.052828863,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4578.jpg,0,Normal,0.017580943,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1924.jpg,1,Anomaly,0.99475974,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/5081.jpg,1,Anomaly,0.9976069,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2224.jpg,0,Normal,0.16815959,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3258.jpg,0,Normal,0.05886535,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3765.jpg,1,Anomaly,0.9999217,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/4455.jpg,0,Normal,0.029791601,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3397.jpg,1,Anomaly,0.99993134,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4635.jpg,1,Anomaly,0.9998783,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3594.jpg,1,Anomaly,0.9970874,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/2466.jpg,0,Normal,0.07211631,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3320.jpg,1,Anomaly,0.7795075,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/3365.jpg,0,Normal,0.052117907,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1421.jpg,0,Normal,0.0047274632,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1181.jpg,1,Anomaly,0.9288718,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1920.jpg,0,Normal,0.0012483967,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/641.jpg,1,Anomaly,0.9974164,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/2141.jpg,1,Anomaly,0.9901188,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3480.jpg,1,Anomaly,0.9861269,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3230.jpg,1,Anomaly,0.98929906,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/1582.jpg,1,Anomaly,0.9961092,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4488.jpg,1,Anomaly,0.91077775,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/274.jpg,1,Anomaly,0.9680219,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4081.jpg,1,Anomaly,0.99732184,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/1795.jpg,0,Normal,0.0012171582,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/4492.jpg,1,Anomaly,0.9995634,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/676.jpg,1,Anomaly,0.9979937,1,ALERT: Violence Anomaly
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/violence/3041.jpg,1,Anomaly,0.30095437,0,Normal
+/kaggle/input/datasets/abdulmananraja/real-life-violence-situations/new_violence/non_violence/17.jpg,0,Normal,0.18846752,0,Normal
